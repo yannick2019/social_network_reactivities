@@ -1,0 +1,15 @@
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
