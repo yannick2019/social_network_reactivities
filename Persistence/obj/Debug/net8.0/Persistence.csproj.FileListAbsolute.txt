@@ -13,3 +13,4 @@
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
