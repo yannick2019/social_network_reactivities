@@ -9,6 +9,7 @@ A social network web app built using Clean Architecture.
 - MobX
 - Semantic UI
 - ASP.Net Core
+- C#
 - Clean Architecture and CQRS + Mediatorr pattern
 
 ## Preview
