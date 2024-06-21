@@ -7,7 +7,7 @@ A social network web app built using Clean Architecture.
 - React
 - TypeScript
 - MobX
-- Semantic UI
+- Semantic UI React
 - ASP.Net Core
 - C#
 - Clean Architecture and CQRS + Mediatorr pattern

@@ -5,9 +5,9 @@
 
 appsettings.json
 API/obj
-Application/obj
-Domain/obj
-Persistence/obj
+Application/obj/
+Domain/obj/
+Persistence/obj/
 
 # dotenv files
 .env
