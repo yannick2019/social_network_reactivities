@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TSsqpGDpHqY=",
+  "dgSpecHash": "TZFA0BcjH9s=",
   "success": true,
   "projectFilePath": "/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/test/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/test/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/test/.nuget/packages/microsoft.data.sqlite.core/8.0.6/microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
     "/Users/test/.nuget/packages/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "/Users/test/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.6/microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
