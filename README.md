@@ -10,7 +10,7 @@ A social network web app built using Clean Architecture.
 - Semantic UI React
 - ASP.Net Core
 - C#
-- Clean Architecture and CQRS + Mediatorr pattern
+- Clean Architecture and CQRS + Mediator pattern
 
 ## Preview
 
