@@ -1,6 +1,6 @@
 # Social network web app (Reactivities)
 
-A social network web app built using Clean Architecture.
+A social network web app built using Clean Architecture pattern.
 
 ## Tech used
 
