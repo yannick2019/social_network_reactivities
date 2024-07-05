@@ -10,22 +10,13 @@ import {
     Label,
     Segment,
 } from "semantic-ui-react";
-import { Activity } from "../../../app/models/activities";
 import { SyntheticEvent, useState } from "react";
+import { useStore } from "../../../app/stores/store";
+import { observer } from "mobx-react-lite";
 
-interface Props {
-    activities: Activity[];
-    selectActivity: (id: string) => void;
-    deleteActivity: (id: string) => void;
-    submitting: boolean;
-}
-
-export default function ActivityList({
-    activities,
-    selectActivity,
-    deleteActivity,
-    submitting,
-}: Props) {
+export default observer(function ActivityList() {
+    const { activityStore } = useStore();
+    const { activities, deleteActivity, loading } = activityStore;
     const [target, setTarget] = useState("");
 
     const handleDeleteActivity = (
@@ -53,9 +44,7 @@ export default function ActivityList({
                             <ItemExtra>
                                 <Button
                                     name={activity.id}
-                                    loading={
-                                        submitting && target === activity.id
-                                    }
+                                    loading={loading && target === activity.id}
                                     onClick={(e) =>
                                         handleDeleteActivity(e, activity.id)
                                     }
@@ -64,7 +53,11 @@ export default function ActivityList({
                                     color="red"
                                 />
                                 <Button
-                                    onClick={() => selectActivity(activity.id)}
+                                    onClick={() =>
+                                        activityStore.selectActivity(
+                                            activity.id
+                                        )
+                                    }
                                     floated="right"
                                     content="View"
                                     color="blue"
@@ -77,4 +70,4 @@ export default function ActivityList({
             </ItemGroup>
         </Segment>
     );
-}
+});
