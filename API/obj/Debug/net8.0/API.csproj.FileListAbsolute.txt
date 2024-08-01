@@ -142,3 +142,8 @@
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
