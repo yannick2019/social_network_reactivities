@@ -147,3 +147,6 @@
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/test/Documents/code/workflow/ReactivitiesProject/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
